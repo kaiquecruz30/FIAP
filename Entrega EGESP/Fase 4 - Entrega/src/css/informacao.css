@@ -1,0 +1,27 @@
+.alinhamento {
+    text-align: center;
+    background-color: rgba(241, 241, 241, 0.705);
+    color: black;
+}
+
+.estilizacao_imagem {
+    border-radius: 10px;
+    padding: 20px 0;
+    box-shadow: 5px 5px 2px rgb(179, 178, 178);
+    opacity: 3;
+}
+
+.espaco {
+    padding: 20px;
+}
+
+
+.divizao p {
+    padding: 15px 100px;
+}
+
+.texto {
+    padding-left: 5%;
+    font-size: medium;
+    text-align: left;
+}

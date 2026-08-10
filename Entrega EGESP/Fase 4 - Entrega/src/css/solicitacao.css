@@ -1,0 +1,136 @@
+form {
+    width: 700px;
+
+    margin: 0 auto;
+}
+
+fieldset {
+    padding: 25px 50px;
+
+    border: 2px solid lightgray;
+
+    border-radius: 5px;
+}
+
+legend{
+    font-size: 20px;
+
+    text-align: center;
+
+    padding: 10px;
+}
+
+label{
+    display: flex;
+
+    flex-direction: column;
+
+    margin-bottom: 10px;
+}
+
+label p {
+    font-size: small;
+    color: darkgray;
+}
+
+label p:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+input{
+    margin: 1rem 0;
+    padding: 5px;
+
+    border-radius: 5px; 
+    border: 0.5px solid lightgray;
+    
+    outline-color: darkgray;
+}
+
+button{
+    padding: 5px 20px;
+
+    border-radius: 5px; 
+    border:none;
+
+    background-color: lightblue;
+}
+
+button:hover {
+    background-color: darkblue;
+    
+    color: white;
+}
+
+
+
+.solicitacao {
+    border: 1px solid lightsalmon;
+    border-radius: 5px;
+    
+    max-width: 1fr;
+
+    padding: 10px;
+    margin: 10px;
+    
+    text-align: left;
+    overflow: hidden;
+}
+
+.endereco-informacoes {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+
+    gap: 5px;
+}
+
+.solicitacao-organizacao {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+    margin: 0;
+    gap: 5px;
+}
+
+.solicitacoes-container {
+    text-align: center;
+
+    font-size: medium;
+
+    padding: 1rem 0;
+
+    background-color: rgba(241, 241, 241, 0.705);
+
+    color: black;
+}
+
+
+
+.protocolos {
+    border: 2px solid darkgray;
+    border-radius: 5px;
+
+    margin: 1rem 2rem;
+    padding: 2rem;
+}
+
+.historico {
+    font-size: large;
+
+    padding: 1rem;
+
+    background-color: rgba(241, 241, 241, 0.705);
+
+    color: black;
+}
+
+
+
+.endereco {
+    margin-bottom: 2rem;
+}
+
+.container {
+    display: grid;
+}
