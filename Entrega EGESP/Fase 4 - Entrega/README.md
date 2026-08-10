@@ -1,16 +1,40 @@
-# React + Vite
+É necessário que todas as dependências sejam baixadas para o funcionamento do projeto.
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## Requisitos para o Projeto
 
-Currently, two official plugins are available:
+* Conferir se apresenta o node está instalado ou se está na versão mais nova: node -v
+* Conferir se está instalado o npx: npx -v
+* Conferir se está instalado o Git: git -v
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+## Como rodar o projeto
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the Oxlint configuration
+Baixar os arquivos no GitHub.
+--------------
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+git clone https://github.com/kaiquecruz30/FIAP/tree/main/Entrega%20EGESP/Fase%204%20-%20Entrega.git
+
+E se não funcionar baixar os arquivos diretamente.
+--------------
+
+
+Instalar todas as dependências indicadas pelo package.json.
+--------------
+
+npm install
+---------------
+
+
+Rodar o projeto React
+----------------
+
+npm run dev
+----------------
+
+
+Acessar no navegador a URL.
+----------------
+
+http://localhost:5173/
+----------------
