@@ -6,6 +6,7 @@
 * Conferir se está instalado o npx: npx -v
 * Conferir se está instalado o Git: git -v
 
+-------------
 
 ## Como rodar o projeto
 
