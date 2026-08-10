@@ -10,31 +10,31 @@
 ## Como rodar o projeto
 
 
-Baixar os arquivos no GitHub.
+#Baixar os arquivos no GitHub.
 --------------
 
-git clone https://github.com/kaiquecruz30/FIAP/tree/main/Entrega%20EGESP/Fase%204%20-%20Entrega.git
+*git clone https://github.com/kaiquecruz30/FIAP/tree/main/Entrega%20EGESP/Fase%204%20-%20Entrega.git
 
 E se não funcionar baixar os arquivos diretamente.
 --------------
 
 
-Instalar todas as dependências indicadas pelo package.json.
+#Instalar todas as dependências indicadas pelo package.json.
 --------------
 
-npm install
+*npm install
 ---------------
 
 
-Rodar o projeto React
+#Rodar o projeto React
 ----------------
 
-npm run dev
+*npm run dev
 ----------------
 
 
-Acessar no navegador a URL.
+#Acessar no navegador a URL.
 ----------------
 
-http://localhost:5173/
+*http://localhost:5173/
 ----------------
