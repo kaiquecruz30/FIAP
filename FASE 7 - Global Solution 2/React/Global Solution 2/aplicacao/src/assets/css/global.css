@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    color: white;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+*::selection {
+    color: rgb(255, 54, 32);
+    background-color: black;
+}
+
+
